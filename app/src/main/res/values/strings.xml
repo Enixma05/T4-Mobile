@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Student Contact App</string>
+
+    <string-array name="prodi_array">
+        <item>Teknik Informatika</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Mesin</item>
+    </string-array>
+</resources>
