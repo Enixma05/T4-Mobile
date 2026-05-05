@@ -3,6 +3,7 @@
 ## Identitas
 
 **Nama:** Fadlullah Hasan
+
 **NIM:** F1D02310008
 
 ---
@@ -26,19 +27,19 @@ Pada aplikasi ini, pengguna dapat:
 
 ### Halaman Login
 
-![login](screenshots/login.png)
+![login](screenshot/login.jpeg)
 
 ### Halaman Home
 
-![home](screenshots/home.png)
+![home](screenshot/home.jpeg)
 
 ### Halaman Detail
 
-![detail](screenshots/detail.png)
+![detail](screenshot/detail.jpeg)
 
 ### Halaman Form Tambah
 
-![form](screenshots/form.png)
+![form](screenshot/form.jpeg)
 
 ---
 
