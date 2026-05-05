@@ -29,9 +29,9 @@ Pada aplikasi ini, pengguna dapat:
 
 ![login](screenshot/login.jpeg)
 
-### Halaman Home
+### Halaman Daftar
 
-![home](screenshot/home.jpeg)
+![daftar](screenshot/daftar.jpeg)
 
 ### Halaman Detail
 
